@@ -15,7 +15,6 @@ background-color: var(--color-light);}
         .header {background: var(--color-light);
             border-bottom: 1px solid #E7E9FC;}
         .header-logo-web {font-family: "Raleway", sans-serif;
-            font-style: normal;
             font-weight: 800;
             font-size: 18px;
             line-height: 1.17;
@@ -25,7 +24,6 @@ background-color: var(--color-light);}
             text-transform: uppercase;
             color: var(--color-logo1);}
         .header-logo-studio {font-family: "Raleway", sans-serif;
-            font-style: normal;
             font-weight: 800;
             font-size: 18px;
             line-height: 1.17;
@@ -42,7 +40,6 @@ background-color: var(--color-light);}
             letter-spacing: 0.02em;
             color: var(--brand-color);}
         .header-contact {
-            font-weight: 400;
             font-size: 16px;
             line-height: 1.5;
             letter-spacing: 0.02em;
@@ -53,7 +50,6 @@ background-color: var(--color-light);}
         .header-link:focus {color: var(--color-hoover);}
 .footer-logo {
     font-family: "Raleway", sans-serif;
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -71,7 +67,6 @@ background-color: var(--color-light);}
     background: var(--brand-color);}
 .footer {background: var(--brand-color);}
 .footer-logo-web {font-family: "Raleway", sans-serif;
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -81,7 +76,6 @@ background-color: var(--color-light);}
     text-transform: uppercase;
     color: var(--color-logo1);}
 .footer-logo-studio {font-family: "Raleway", sans-serif;
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -92,7 +86,6 @@ background-color: var(--color-light);}
     color: var(--color-logo2);}
 .hero {background: var(--brand-color);}
 .hero-text {
-    font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -106,7 +99,6 @@ background-color: var(--color-light);}
     border-radius: 4px;}
 .hero-button {cursor: pointer}
 .text-button {font-family: "Roboto", sans-serif;
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -126,7 +118,6 @@ background-color: var(--color-light);}
     letter-spacing: 0.02em;
     color: var(--color-text);} 
 .gallary-text{
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -135,7 +126,6 @@ background-color: var(--color-light);}
     color: var(--brand-color);}
 .team {background-color: var(--color-logo2)}
 .team-text{
-        font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
         text-align: center;
@@ -181,7 +171,6 @@ background-color: var(--color-light);}
     letter-spacing: 0.02em;
     color: var(--brand-color);}
 .work-item{
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
